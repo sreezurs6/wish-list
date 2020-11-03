@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Item</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Item</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Application File" name="Application File">0afe2c332f33101013bbd6ab2799b601</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-03 07:02:42</sys_created_on>
+        <sys_id>dda206742f58641013bbd6ab2799b6dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Item</sys_name>
+        <sys_package display_value="wishh list" source="x_538697_wishh_lis">7effadb42f18641013bbd6ab2799b6cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wishh list">7effadb42f18641013bbd6ab2799b6cc</sys_scope>
+        <sys_update_name>sys_wizard_answer_dda206742f58641013bbd6ab2799b6dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-03 07:02:42</sys_updated_on>
+        <table/>
+        <target_url>x_538697_wishh_lis_item.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
