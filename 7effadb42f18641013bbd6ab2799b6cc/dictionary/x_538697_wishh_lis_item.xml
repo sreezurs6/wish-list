@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="update_synch=true" extends="sys_metadata" label="Item" max_length="40" name="x_538697_wishh_lis_item" type="collection">
+    <element attributes="update_synch=true" extends="sys_metadata" label="Item" max_length="40" name="x_538697_wishh_lis_item" sizeclass="0" type="collection">
         <element label="Quantity" max_length="40" name="quantity" type="integer"/>
         <element display="true" label="URL" max_length="1024" name="url" type="url"/>
     </element>
